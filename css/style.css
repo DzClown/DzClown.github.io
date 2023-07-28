@@ -1,4 +1,12 @@
+.body {
+    background-color: #F6F4EB;
+}
+
 .jumbotron {
     padding-top: 2rem;
+    background-color: #91C8E4;
+}
+
+#projects {
     background-color: #91C8E4;
 }

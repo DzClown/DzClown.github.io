@@ -22,3 +22,11 @@ section {
     background-color: black;
     padding: 1rem;
 }
+
+.gallery-img {
+    width: 100%;
+}
+
+#galery .row > * {
+    padding: 0;
+}

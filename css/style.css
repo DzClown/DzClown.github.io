@@ -1,5 +1,5 @@
 .body {
-    background-color: #F6F4EB;
+    background-color: #f6f4eb;
 }
 
 .jumbotron {
@@ -16,11 +16,12 @@
 }
 section {
     padding-top: 5rem;
+    background-color: #f6f4eb;
 }
 
 .about-me-tools {
     background-color: black;
-    padding: 1rem;
+    padding: 0.4rem;
 }
 
 .gallery-img {
